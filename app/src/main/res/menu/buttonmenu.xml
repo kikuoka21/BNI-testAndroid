@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navHome"
+        android:icon="@drawable/house"
+        android:iconTint="@null"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/navQRScan"
+        android:icon="@drawable/ic_qr_code_scanner"
+        android:iconTint="@null"
+        android:title="QRIS" />
+    <item
+        android:id="@+id/navHisTransaksi"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:iconTint="@null"
+        android:title="Riwayat" />
+
+    <item
+        android:id="@+id/navNabung"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:iconTint="@null"
+        android:title="Tambah" />
+
+
+</menu>
